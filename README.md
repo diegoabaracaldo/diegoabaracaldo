@@ -31,7 +31,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/QA-2EA043?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Testing-238636?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-30363D?style=for-the-badge&logo=git&logoColor=F05032"/>
 </p>
 
