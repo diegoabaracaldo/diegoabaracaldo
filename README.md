@@ -1,7 +1,7 @@
 # 👋 Hola, soy Diego Alejandro
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Diego+Abaracaldo;Ingeniero+de+Sistemas;QA+%7C+Software+Engineering;Mejora+Continua+y+Calidad+de+Software"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Diego+Alejandro+Baracaldo;Ingeniero+de+Sistemas;QA+%7C+Software+Engineering;Mejora+Continua+y+Calidad+de+Software"/>
 </p>
 
 <p align="center">
