@@ -4,8 +4,7 @@
 ---
 
 💡 Apasionado por Python, backend y automatización  
-🧑‍💻 Desarrollo software 
-
+🧑‍💻 Desarrollo software
 🚀 Siempre aprendiendo nuevas tecnologías
 
 ---
