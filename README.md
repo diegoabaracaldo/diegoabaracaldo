@@ -6,9 +6,8 @@
 
 <p align="center">
   <em>
-    Ingeniero de Sistemas con experiencia en desarrollo de software y QA.<br/>
-    Especialización en Ingeniería de Software (UNIR).<br/>
-    Enfoque en calidad, procesos y soluciones confiables.
+    Ingeniero de Sistemas con experiencia en desarrollo de software y calidad de software.<br/>
+    Especialización en Ingeniería de Software.<br/>
   </em>
 </p>
 
